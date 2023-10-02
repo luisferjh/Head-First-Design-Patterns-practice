@@ -1,0 +1,77 @@
+# Ignorar carpetas generadas por Visual Studio
+.vs/
+/bin/
+/obj/
+/packages/
+
+# Ignorar archivos de usuario y configuración
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos de caché
+*.cache
+
+# Ignorar archivos de respaldo
+*~
+*.bak
+
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de compilación y ejecución
+*.exe
+*.dll
+*.pdb
+
+# Ignorar archivos de salida de prueba
+TestResults/
+
+# Ignorar archivos de configuración específicos del entorno
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos generados por el compilador C#
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+
+# Ignorar archivos generados por Visual Studio Code
+.vscode/
+
+# Ignorar archivos generados por Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos generados por Rider (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Ignorar archivos generados por Rider (Mono)
+mono_crash.*
+
+# Ignorar archivos de caché de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignorar archivos generados por instaladores de Windows
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ignorar accesos directos de Windows
+*.lnk
