@@ -75,3 +75,5 @@ Desktop.ini
 
 # Ignorar accesos directos de Windows
 *.lnk
+
+others/
